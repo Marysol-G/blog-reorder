@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Behavioral Recommendation Topics
+ * License:     GPL-2.0-or-later
  * Description: Displays a cookie-consent banner and reorders blog posts based on inferred user interests.
  * Version:     1.0.1
  * Author:      Marysol Gurrola
