@@ -8,7 +8,7 @@
 
 ## Description
 
-This plugin displays a cookie-consent banner and then reorders your blog index based on the user’s inferred interests—no subscriptions or emails required. It tracks which topic tags (AI, Marketing, Engineering) the visitor views most often and boosts those posts to the top of the main loop once consent is granted.
+This plugin displays a cookie-consent banner and then reorders your blog index based on the user’s inferred interests. It tracks which topic tags (AI, Marketing, Engineering) the visitor views most often and boosts those posts to the top of the main loop once consent is granted.
 
 ---
 
