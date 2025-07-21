@@ -1,0 +1,14 @@
+# Ignore everything…
+*
+
+# …but not these files:
+!.gitignore
+!README.md
+!blog-reorder.php
+!br-consent.js
+!index.php
+
+# Ignore OS and editor junk
+.DS_Store
+Thumbs.db
+*.log
